@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5em;
+    letter-spacing: 0.15em;
+    margin: 0;
+}
+
+.active {
+    color: #bb0000;
+}
